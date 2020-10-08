@@ -1,0 +1,16 @@
+template:
+  params:
+    bootswatch: cerulean
+    
+navbar:
+  structure:
+    right: [extensions, github]
+  components:
+    home: ~
+    extensions:
+      text: Extensions
+      href: https://exts.ggplot2.tidyverse.org/gallery/
+    github:
+      icon: fab-github
+      href: https://github.com/cuiping-wei/cwdata-1
+    
